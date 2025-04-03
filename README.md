@@ -1,44 +1,57 @@
-Toggle Password Visibility
-This is a simple password input field with a toggle visibility feature using HTML, CSS, and JavaScript.
+🚀 Toggle Password Visibility
+🔒 A simple and stylish password toggle feature using HTML, CSS, and JavaScript. Click the 👁️ icon to show or hide your password!
 
-Features
-Allows users to toggle password visibility by clicking an eye icon.
+🌟 Features
+✅ Toggle Password Visibility – Click the eye icon to show/hide the password.
+✅ Dynamic Eye Icon Change – Open eye for visible text, closed eye for hidden text.
+✅ Minimalist & Responsive UI – Clean and simple design for all screen sizes.
 
-Changes the eye icon based on visibility state.
+🎨 Tech Stack
+🖼 HTML – Structure
 
-Responsive and minimalistic design.
+🎨 CSS – Styling
 
-Technologies Used
-HTML
+⚡ JavaScript – Functionality
 
-CSS
+📸 Preview
+(Add a demo GIF here for a better visual example!)
 
-JavaScript
+🚀 Usage
+1️⃣ Clone the repository
 
-How to Use
-Open index.html in a web browser.
+bash
+Copy
+Edit
+git clone https://github.com/your-username/repository-name.git
+2️⃣ Navigate into the folder
 
-Enter your password in the input field.
+bash
+Copy
+Edit
+cd repository-name
+3️⃣ Open index.html in a browser
 
-Click the eye icon to toggle between visible and hidden password states.
+Double-click the file or use Live Server in VS Code.
 
-File Structure
+📁 Project Structure
 graphql
 Copy
 Edit
-project-folder/
-│── index.html      # Main HTML file
-│── style.css       # Stylesheet for UI
-│── script.js       # JavaScript for toggle functionality
-└── images/         # Folder containing eye icons
-    ├── eye-open.png
-    └── eye-close.png
-Setup Instructions
-Clone or download this repository.
+📂 project-folder/
+├── 📜 index.html   # Main HTML file
+├── 🎨 style.css    # Styling file
+├── ⚡ script.js     # JavaScript for toggle function
+└── 📁 images/      # Folder containing icons
+    ├── 👁️ eye-open.png
+    └── 👁️‍🗨️ eye-close.png
+🛠️ Setup Instructions
+1️⃣ Ensure all files are in the correct structure.
+2️⃣ Open index.html in a browser.
+3️⃣ Click the 👁️ icon to toggle password visibility.
 
-Ensure all files are in the correct structure as shown above.
+📜 License
+🆓 Free and open-source. Use it however you like!
 
-Open index.html in any browser to test the functionality.
+🎯 Like this project? Give it a ⭐ on GitHub! 🚀
 
-License
-This project is open-source and free to use.
+Let me know if you need any modifications! 🎨🔥

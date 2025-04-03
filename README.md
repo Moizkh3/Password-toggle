@@ -36,7 +36,7 @@ cd repository-name
 3️⃣ Open index.html in a browser
 Double-click the file or use Live Server in VS Code.
 
-📁 Project Structure
+##📁 Project Structure
 graphql
 Copy
 Edit
@@ -47,12 +47,12 @@ Edit
 └── 📁 images/      # Folder containing icons
     ├── 👁️ eye-open.png
     └── 👁️‍🗨️ eye-close.png
-🛠️ Setup Instructions
+#🛠️ Setup Instructions
 1️⃣ Ensure all files are in the correct structure.
 2️⃣ Open index.html in a browser.
 3️⃣ Click the 👁️ icon to toggle password visibility.
 
-📜 License
+#📜 License
 🆓 Free and open-source. Use it however you like!
 
-🎯 Like this project? Give it a ⭐ on GitHub! 🚀
+#🎯 Like this project? Give it a ⭐ on GitHub! 🚀

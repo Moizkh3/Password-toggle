@@ -1,4 +1,4 @@
-]# 🚀 Toggle Password Visibility  
+# 🚀 Toggle Password Visibility  
 
 🔒 A **simple and stylish password toggle feature** using **HTML, CSS, and JavaScript**.  
 Click the 👁️ icon to show or hide your password!  

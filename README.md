@@ -1,36 +1,39 @@
-##🚀 Toggle Password Visibility
-🔒 A simple and stylish password toggle feature using HTML, CSS, and JavaScript. Click the 👁️ icon to show or hide your password!
+]# 🚀 Toggle Password Visibility  
 
-🌟 Features
-✅ Toggle Password Visibility – Click the eye icon to show/hide the password.
-✅ Dynamic Eye Icon Change – Open eye for visible text, closed eye for hidden text.
-✅ Minimalist & Responsive UI – Clean and simple design for all screen sizes.
+🔒 A **simple and stylish password toggle feature** using **HTML, CSS, and JavaScript**.  
+Click the 👁️ icon to show or hide your password!  
 
-🎨 Tech Stack
-🖼 HTML – Structure
+---
 
-🎨 CSS – Styling
+## 🌟 Features  
+✅ **Toggle Password Visibility** – Click the eye icon to show/hide the password.  
+✅ **Dynamic Eye Icon Change** – Open eye for visible text, closed eye for hidden text.  
+✅ **Minimalist & Responsive UI** – Clean and simple design for all screen sizes.  
 
-⚡ JavaScript – Functionality
+---
 
-📸 Preview
-(Add a demo GIF here for a better visual example!)
+## 🎨 Tech Stack  
+- 🖼 **HTML** – Structure  
+- 🎨 **CSS** – Styling  
+- ⚡ **JavaScript** – Functionality  
 
-🚀 Usage
-1️⃣ Clone the repository
+---
 
-bash
-Copy
-Edit
+## 📸 Preview  
+*(Add a demo GIF here for a better visual example!)*  
+
+---
+
+## 🚀 Usage  
+### 1️⃣ Clone the repository  
+```bash
 git clone https://github.com/your-username/repository-name.git
 2️⃣ Navigate into the folder
-
 bash
 Copy
 Edit
 cd repository-name
 3️⃣ Open index.html in a browser
-
 Double-click the file or use Live Server in VS Code.
 
 📁 Project Structure
@@ -53,5 +56,3 @@ Edit
 🆓 Free and open-source. Use it however you like!
 
 🎯 Like this project? Give it a ⭐ on GitHub! 🚀
-
-Let me know if you need any modifications! 🎨🔥
